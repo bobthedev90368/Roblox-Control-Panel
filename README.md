@@ -30,7 +30,8 @@ Default should look like this:
 ```
 Usernames can be added or changed in the username section. Simply edit the list by adding or changing values to change the username. The rights level is the amount of rights a certain account has. The rights are in order of usernames, if a username has the index of 0 the rights for that username will be under the index of 0, passwords apply the same way.<br>
 #### Rights level are as follows:
-``` Level 0: Account disabled
+``` 
+Level 0: Account disabled
 Level 1: Can only read game stats
 Level 2: Can only read game stats and settings
 Level 3: Moderator privalleges; mute, kick, etc based on configuration
