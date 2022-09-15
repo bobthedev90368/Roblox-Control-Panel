@@ -24,7 +24,7 @@ Default should look like this:
 ```
 {
 "usernames":["Admin", "Default", "Locked Account", "ReadONLY"],
-"rightslevel":[5, 2, 0, 1],
+"rightslevel":[6, 3, 0, 1],
 "passwords":["password", "password", "password", "password"]
 }
 ```
